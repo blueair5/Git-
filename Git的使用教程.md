@@ -24,33 +24,33 @@
 
 <h4>仓库管理：</h4>创建文件，创建文件后，会自动跳转到仓库主页 修改删除文件：点击文件名，到文件详情也可以修改，也可以删除
 
-<img src="E:\笔记\Typora\git教程图片\1.jpg">
+<img src="D:\Google\Gitkraken\Git的使用教程\git教程图片\1.jpg">
 
-​					<img src="E:\笔记\Typora\git教程图片\2.jpg">
+​					<img src="D:\Google\Gitkraken\Git的使用教程\git教程图片\2.jpg">
 
-<img src="E:\笔记\Typora\git教程图片\3.jpg">
+<img src="D:\Google\Gitkraken\Git的使用教程\git教程图片\3.jpg">
 
 
 
-<img src="E:\笔记\Typora\git教程图片\4.jpg">										
+<img src="D:\Google\Gitkraken\Git的使用教程\git教程图片\4.jpg">										
 
 <h4>搜索文件:</h4>可以点击 go to file，也可以使用快捷键T
 
 <h4>Issue:</h4>点击 close issue，可以关闭issue，相当于已解决
 
-<img src="E:\笔记\Typora\git教程图片\5.jpg">
+<img src="D:\Google\Gitkraken\Git的使用教程\git教程图片\5.jpg">
 
 <h4>Fork:</h4>
 
-<img src="E:\笔记\Typora\git教程图片\6.jpg">
+<img src="D:\Google\Gitkraken\Git的使用教程\git教程图片\6.jpg">
 
 <h4>Pull Request:</h4>
 
-<img src="E:\笔记\Typora\git教程图片\7.jpg">
+<img src="D:\Google\Gitkraken\Git的使用教程\git教程图片\7.jpg">
 
 
 
-<img src="E:\笔记\Typora\git教程图片\8.jpg">
+<img src="D:\Google\Gitkraken\Git的使用教程\git教程图片\8.jpg">
 
 
 
